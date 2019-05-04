@@ -1,0 +1,139 @@
+body {
+    font-family: Arial;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.navHeadBanner {
+    background-color: #293137;
+}
+
+.logo {
+    float: left;
+    padding-top: 5px;
+}
+
+.navButtons {
+    color: #ffffff;
+    display: inline;
+    float: right;
+    padding-top: 40px;
+}
+
+.navButtons>li {
+    font-size: 20px;
+    padding-right: 10px;
+    display: inline-block;
+}
+
+.home {
+    color: #2b8bd2;
+    border: 2px solid #2b8bd2;
+    padding: 3px 10px;
+}
+
+header {
+    background-image: url("../images/header.jpg");
+    text-align: center center;
+    background-size: cover;
+}
+
+.header-title {
+    background-color: #293137;
+    color: #ffffff;
+    padding: 0% 15px;
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.header-subtitle {
+    color: #ffffff;
+    background-color: #2b8bd2;
+    padding: 0% 5px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.section-call-to-action {
+    background-color: chocolate;
+}
+
+.call-to-action {
+    color: #ffffff;
+    font-size: 20px;
+    display: inline-block;
+}
+
+.section-title {
+    font-size: 30px;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+.button {
+    color: #ffffff;
+    display: inline-block;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.button>a {
+    color: #fff;
+    border: 4px solid #fff;
+    font-weight: 500;
+    padding: 10px 30px;
+}
+
+.works {
+    color: #293137;
+    font-size: 40px;
+    padding: 2% 0px;
+}
+
+.column {
+    display: inline-block;
+}
+
+.column>img {
+    display: inline-block;
+}
+
+.testimonials {
+    background-color: #d2d5e1;
+}
+
+.testimonial {
+    color: #293137;
+}
+
+.Find-us {
+    background-color: #353f47;
+}
+
+.map {
+    background-image: url(../images/map.png);
+    background-size: cover;
+}
+
+.locate {
+    color: #fff;
+}
+
+.footer-list {
+    display: inline-block;
+}
+
+.footer-list>li {
+    color: #fff;
+    display: inline-block;
+    font-size: 125%;
+    margin: 0 10px 10px 0;
+}

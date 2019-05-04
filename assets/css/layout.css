@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+}
+
+p,h1,h3,h4,ul{
+    margin: 0;
+}
+
+.navHeadBanner {
+    height: 100px;
+    width: 100%;
+}
+
+.container {
+    margin: auto;
+    width: 100%;
+    max-width: 960px
+}
+
+.logo {
+    max-width: 600px;
+}
+
+.navButtons {
+    width: 500px;
+}
+
+.home {
+    margin-right: 5px;
+}
+
+header {
+    height: 550px;
+    width: 100%;
+}
+
+.title-wrapper {
+    padding-top: 150px;
+}
+
+.header-title {
+    margin: auto;
+    width: 475px;
+}
+
+.header-subtitle {
+    margin: auto;
+    margin-top: 140px;
+    width: 403px;
+}
+
+.section-call-to-action {
+    height: 150px;
+    margin: auto;
+    width: 100%;
+}
+
+.section-subcontainer {
+    margin: auto;
+    max-width: 960px;
+}
+
+.call-to-action {
+    margin-top: 25px;
+    float: left;
+    width: 40%;
+}
+.call-to-action>p{
+    padding-top: 10px;
+}
+
+.button{
+    float: right;
+    padding-top: 20px;
+}
+
+.column {
+    width: 200%;
+    margin-bottom: 10px;
+}
+
+.column>img {
+    margin: auto;
+    max-width: 100%;
+}
+.works {
+    margin: auto;
+    margin-top: 10px;
+}
+
+.testimonials {
+    height: 175px;
+}
+
+.testimonial {
+    font-size: 110%;
+    padding: 20px 0%;
+}
+
+.locate {
+    padding: 10px 0%;
+}
+
+.map {
+    height: 600px;
+    margin: auto;
+}
+
+.footer-list {
+}
